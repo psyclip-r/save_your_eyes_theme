@@ -36,8 +36,7 @@ body {
 
 /* add a logo in the header */
 #header {
-    background: #303030 url(../images/logo.png) no-repeat 2px;
-    background-position: 20px center;
+    background: #303030;
     padding-left: 86px;
 }
 
